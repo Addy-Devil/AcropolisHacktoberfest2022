@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "github": "srashtisj",
+      "firstname": "Srashti",
+      "lastname": "Jain",
+      "about": "Founder TechVraksh | Google Developer Expert (Angular)",
+      "image": "https://github.com/srashtisj.png"
+    },
+ {
+      "github": "Addy-Devil",
+      "firstname": "Aryan",
+      "lastname": "Dame",
+      "about": "Student",
+      "image": "https://github.com/AddyDevil.png"
+    }
+  ]
+}
