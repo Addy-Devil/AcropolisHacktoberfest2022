@@ -5,7 +5,7 @@ A forked repository would be created affiliated to your account. Now open the co
 
 2. Clone the forked repository.
 
-   git clone https://github.com/<your-github-id>/AcropolisHacktoberfest2022.git
+   git clone https://github.com/<your-github-id>AcropolisHacktoberfest2022.git
 3. Navigate to the project directory.
 
    cd AcropolisHacktoberfest2022
