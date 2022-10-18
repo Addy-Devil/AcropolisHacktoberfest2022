@@ -13,6 +13,14 @@
       "lastname": "Dame",
       "about": "Student",
       "image": "https://github.com/AddyDevil.png"
+    },
+    {
+      "github": "Nishchal128",
+      "firstname": "Nishchal",
+      "lastname": "Vyas",
+      "about": "A contributer",
+      "image": "https://github.com/Nishchal128.png"
     }
+    
   ]
 }
