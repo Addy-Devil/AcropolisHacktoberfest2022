@@ -13,6 +13,13 @@
       "lastname": "Dame",
       "about": "Student",
       "image": "https://github.com/AddyDevil.png"
-    }
+    },
+     {
+       "github": "devashishSarmah",
+       "firstname": "Devashish",
+       "lastname": "Sarmah",
+       "about": "Software Engineer | Angular Developer",
+       "image": "https://github.com/devashishSarmah.png"
+     }
   ]
 }
